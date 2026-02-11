@@ -39,6 +39,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/amikingo/amikingo/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/amikingo/amikingo/blob/output/snake.svg" alt="Snake animation" />
 
 ###
